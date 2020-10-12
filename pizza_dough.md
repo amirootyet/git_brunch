@@ -1,7 +1,9 @@
 # Pizza Dough
 
 *Prep time: ~15 min*
+
 *Proofing time: 1-2 hrs*
+
 *Cook time: 20 mins*
 
 *Total time: 1-2 hrs*
@@ -14,7 +16,7 @@
 - 1 	tbsp. sugar
 - 1 	packet dry active yeast
 - 2 	tbsp. olive oil
-- DASH  basil
+- 1     tsp. basil
 
 ### Cooking
 
