@@ -26,7 +26,6 @@
  - ½ teaspoon black pepper (freshly grated is better)
  - ½ teaspoon cayenne
  - 1 black cardamom
- - 3 teaspoons Punjabi chole masala (optional)
  - 1 teaspoon red chilli (optional)
  - 2 cups water
  - Cilantro leaves and red onion, garnish
