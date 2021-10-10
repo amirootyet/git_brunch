@@ -1,2 +1,3 @@
-# git_brunch
+# Git_Brunch
+
 Cooking Adventures of a Grad Student

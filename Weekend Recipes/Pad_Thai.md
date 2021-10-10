@@ -1,4 +1,4 @@
-# Instant Pot Poha
+# Pad Thai
 
 *Prep time: ~15 min*
 
